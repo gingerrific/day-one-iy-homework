@@ -1,0 +1,31 @@
+ctrl+f = forward
+ctrl+b = back
+ctrl+p = up
+ctrl+n = down
+ctrl+a = beg line
+ctrl+e = end line
+ctrl+k = cut to end line
+	
+	
+
+	
+
+
+	
+
+	.game-cover-title {
+	display: inline;
+	position: absolute;
+	
+	font-family: Montserrat Alternates, Helvetica, Sans-Serif;
+}
+
+.game-cover-body {
+	display:inline;
+	position: static;
+	padding: 10px 0px 5px 10px;
+	margin-top: 5px;
+	font-family: Raleway, Helvetica, Sans-Serif;
+	font-size: .8em;
+}
+
