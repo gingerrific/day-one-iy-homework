@@ -1,0 +1,110 @@
+/* comment comment */
+.header {
+	background-color: #ff6400;
+	border-radius: 15px;
+	height: 75px;
+	width: 98%;
+	position: relative;
+	margin: auto;	
+	padding: 5px;
+}
+
+.logotext {
+	font-size: 35px;
+	font-family: Montserrat Alternates, Helvetica, Sans-Serif;
+	display: inline;
+	margin: 20px 0px 10px 25px;
+	position: absolute;
+	color: #FFFFFF;
+}
+
+.sidebar-text ul {
+	font-family: Montserrat Alternates, Helvetica, Sans-Serif;
+	list-style: none;
+	padding: 0px;
+	margin-top: 15px;
+	width: 160px;
+	position: fixed;
+	border: 1px solid black;
+	border-top-left-radius: 15px;
+	line-height: 3;
+
+}
+
+
+.active-tab-box {
+	font-weight: bold;
+	background-color: #ff6400;
+}
+
+
+.sidebar-text ul li {
+	border-bottom:1px solid gray;
+	padding: 5px;
+
+}
+
+.sidebar-text ul li:hover {
+	font-weight: bold;
+	background-color: #ff6400;
+	font-size: .9em;
+}
+
+.sidebar-one-off:hover {
+	font-weight: bold;
+	background-color: #ff6400;
+	font-size: .9em;
+	border-top-left-radius: 15px;
+}
+
+.article-1 {
+	font-family: Montserrat Alternates, Helvetica, Sans-Serif;
+	margin: 15px 0px 20px 180px;
+	position: relative;
+	border-bottom: 1px solid gray;
+}
+
+.article-2{
+	font-family: Montserrat Alternates, Helvetica, Sans-Serif;
+	position: relative;
+	margin-left: 180px;
+}
+
+.article-body-text {
+	font-family: Raleway, Helvetica, Sans-Serif;
+}
+
+.upcoming-game {
+	max-height: 122px;
+	padding-bottom: 10px;
+}
+
+.game-cover-picture{
+	display:inline-block;
+	height:120px;
+	width:160px;	
+}
+
+.game-cover-picture:hover{
+	zoom:1.05;
+
+}
+
+.game-cover-title {
+	position: absolute;
+	display: inline;
+	padding: 0px 0px 5px 10px;
+	margin-top: 0px;
+	font-family: Montserrat Alternates, Helvetica, Sans-Serif;
+	font-weight: bold;
+}
+
+.game-cover-body {
+	display: inline;
+	position: absolute;
+	padding: 0px 0px 5px 10px;
+	margin-top: 25px;
+	font-family: Raleway, Helvetica, Sans-Serif;
+	font-size: .8em;
+	max-heigh: 96px;
+}
