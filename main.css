@@ -7,12 +7,6 @@
 	position: relative;
 	margin: auto;	
 	padding: 5px;
-}		
-
-
-
-.fake {
-	
 }
 
 .logotext {
@@ -74,7 +68,6 @@
 	font-family: Montserrat Alternates, Helvetica, Sans-Serif;
 	position: relative;
 	margin-left: 180px;
-
 }
 
 .article-body-text {
@@ -98,14 +91,12 @@
 }
 
 .game-cover-title {
-	position: relative;
+	position: absolute;
 	display: inline;
-	padding: 1px 0px 5px 10px;
+	padding: 0px 0px 5px 10px;
 	margin-top: 0px;
 	font-family: Montserrat Alternates, Helvetica, Sans-Serif;
-	font-weight: bold; 
-	width:575px;
-	min-width: 96em;
+	font-weight: bold;
 }
 
 .game-cover-body {
@@ -115,6 +106,5 @@
 	margin-top: 25px;
 	font-family: Raleway, Helvetica, Sans-Serif;
 	font-size: .8em;
-	width:575px;
-	min-width: 96em;
+	max-heigh: 96px;
 }
